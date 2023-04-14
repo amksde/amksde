@@ -6,7 +6,7 @@
 Aman here! Just a guy enjoying life and trying to build good software, with love ♥️ 
 
 <p> 
-  <a href="https://bit.ly/3CMztxE"> <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&amp;labelColor=363232&amp;logo=Notion&amp;link=https://bit.ly/3CMztxE" alt="Website Badge"> </a>
+  <a href="https://bit.ly/3CMztxE"> <img src="https://img.shields.io/badge/-Notion-000000?style=for-the-badge&amp;labelColor=363232&amp;logo=Notion&amp;link=shorturl.at/uvJR8" alt="Website Badge"> </a>
   <a href="https://www.linkedin.com/in/aman-kumar-sde/"> <img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&amp;labelColor=0A66C2&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/aman-kumar-sde/" alt="LinkedIn"> </a>
   <a href="https://thatstupidguy.medium.com/"> <img src="https://img.shields.io/badge/-Medium-FFFFFF?style=for-the-badge&amp;labelColor=000000&amp;logo=Medium&amp;link=https://thatstupidguy.medium.com/" alt="LinkedIn"> </a>
  </p>
