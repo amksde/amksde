@@ -20,7 +20,7 @@ Aman here! Just a guy enjoying life and trying to build good software, with love
  
  ## Working Suite
 
-<img align="right" src="GIFs/itcrowd.gif" height = "350" />
+<img align="right" src="GIFs/itcrowd.gif" height = "250" />
 
 |  | Tools |
 |---| ---|
