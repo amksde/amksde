@@ -32,4 +32,6 @@ Aman here! Just a guy enjoying life and trying to build good software, with love
 | Scripting | <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Bash_Logo_White.svg" alt = "github" height="30"/>|
 | Markup Languages | <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt = "html" height="30"/> <img src="Icons/latex.png" alt = "github" height="30"/> |
 
- </p>
+ ## Statistics
+ 
+ [![amksde's GitHub stats](https://github-readme-stats.vercel.app/api?username=amksde&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
